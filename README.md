@@ -37,10 +37,23 @@
 [Arquitetura da Informação](http://arquiteturadeinformacao.com/) <br />
 
 ### - SEO
-[SEO para dispositivos Mobile - Google](https://developers.google.com/webmasters/mobile-sites/mobile-seo/) <br />
-[SEO para Joomla - Leo Miranda](http://www.jcursos.com.br/tutoriais/seo-para-joomla) <br />
-[Ferramenta da Google que testa a compatibilidade de sites com dispositivos mobile](https://www.google.com/webmasters/tools/mobile-friendly/) <br />
+
+
 [Principios de design para websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
 [Diretrizes de identidade da Apple](http://www.logoair.com/wp-content/uploads/2011/01/logo_guidelines.pdf) <br />
 [UI Design Apple](https://developer.apple.com/design/tips/#readability)
-[Ferramenta teste de performace de websites](http://www.webpagetest.org)
+
+
+### - Performace e SEO:
+[Como perder peso no Browser](http://browserdiet.com/pt/) <br />
+[SEO para dispositivos Mobile - Google](https://developers.google.com/webmasters/mobile-sites/mobile-seo/) <br />
+[SEO para Joomla - Leo Miranda](http://www.jcursos.com.br/tutoriais/seo-para-joomla) <br />
+
+### - Ferramentas de teste: 
+- Performace de websites: <br />
+[HTTP archive](http://httparchive.org/) <br />
+[WebPageTest](http://www.webpagetest.org) <br />
+[PageSpeed](https://developers.google.com/speed/pagespeed/insights/) <br />
+
+- Compatibilidade de sites com dispositivos mobile: <br /> 
+[Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/) <br />
