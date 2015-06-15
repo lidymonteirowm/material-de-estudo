@@ -5,6 +5,7 @@
 [Mobile First - Luke Wroblewski]() <br />
 [Responsive Web Design - Ethan Marcotte]() <br />
 [Estratégia de conteúdo para Mobile - Karen McGrane]() <br />
+[Resenha do livro Karen McGrane](http://marketingland.com/book-review-content-strategy-for-mobile-by-karen-mcgrane-34269)
 [Material de estudo](https://github.com/lidymonteirowm/material-de-estudo/edit/master/README.md) <br />
 
 ### - Infonográfico/ebooks
