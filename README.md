@@ -24,6 +24,11 @@
 - [Como testar Design responsivo](http://tableless.com.br/como-testar-design-responsivo/) <br />
 - [Design responsivo na prática: Do rascunho ao digital](http://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/) <br />
 
+### - Prototipação
+- [Prototipando com papel](https://medium.com/ux-ui-design-1/prototipos-de-papel-9f812d5b0dcc)
+### - Usabilidade
+- [Introdução à Usabilidade](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+
 ### - Posts
 [Responsive Web Design - Ethan Marcotte](http://alistapart.com/article/responsive-web-design) <br />
 [Um guia completo de tipografia para Web](http://tableless.com.br/um-guia-completo-de-tipografia-para-a-web/) <br />
@@ -46,6 +51,7 @@
 [Como perder peso no Browser](http://browserdiet.com/pt/) <br />
 [SEO para dispositivos Mobile - Google](https://developers.google.com/webmasters/mobile-sites/mobile-seo/) <br />
 [SEO para Joomla - Leo Miranda](http://www.jcursos.com.br/tutoriais/seo-para-joomla) <br />
+[SEO Miltilingual em Joomla](http://joomlaseo.com/blog/multilingual-seo-in-joomla)
 
 ### - Ferramentas de teste: 
 - Performace de websites: <br />
