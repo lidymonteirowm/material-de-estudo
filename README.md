@@ -39,4 +39,5 @@
 [SEO para dispositivos Mobile - Google](https://developers.google.com/webmasters/mobile-sites/mobile-seo/) <br />
 [SEO para Joomla - Leo Miranda](http://www.jcursos.com.br/tutoriais/seo-para-joomla) <br />
 [Ferramenta da Google que testa a compatibilidade de sites com dispositivos mobile](https://www.google.com/webmasters/tools/mobile-friendly/) <br />
-[Principios de design para websites - Google](https://developers.google.com/web/fundamentals/principles/)
+[Principios de design para websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
+[Diretrizes de identidade da Apple](http://www.logoair.com/wp-content/uploads/2011/01/logo_guidelines.pdf)
