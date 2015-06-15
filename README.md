@@ -32,14 +32,12 @@
 [Tipografia para Web](http://alistapart.com/article/on-web-typography) <br />
 [Processo de concepção/planejamento de Websites](http://www.toptal.com/ux/make-design-decisions-in-your-browser-my-process-for-designing-websites)
 
-### - Sites e Blogs de referência
+### - Sites e Blogs de referência: Web Design, UI, UX, Arquitetura da Informação
 [Tableless](http://tableless.com.br/) <br />
 [Arquitetura da Informação](http://arquiteturadeinformacao.com/) <br />
 
-### - SEO
-
-
-[Principios de design para websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
+### - Design e Web Design
+[Principios de design para Websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
 [Diretrizes de identidade da Apple](http://www.logoair.com/wp-content/uploads/2011/01/logo_guidelines.pdf) <br />
 [UI Design Apple](https://developer.apple.com/design/tips/#readability)
 
@@ -55,5 +53,11 @@
 [WebPageTest](http://www.webpagetest.org) <br />
 [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) <br />
 
-- Compatibilidade de sites com dispositivos mobile: <br /> 
+- Compatibilidade de websites com Responsive Design: <br /> 
 [Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/) <br />
+[Screenfly](http://quirktools.com/screenfly/)
+[Responsinator](http://www.responsinator.com/)
+[Emuladores Mobile](http://www.mobilexweb.com/emulators)
+[Adobe Edge InspectCC](https://creative.adobe.com/products/inspect)
+[Extensão viewport resizer - Chrome](https://chrome.google.com/webstore/detail/viewport-resizer/kapnjjcfcncngkadhpmijlkblpibdcgm)
+
