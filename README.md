@@ -55,9 +55,9 @@
 
 - Compatibilidade de websites com Responsive Design: <br /> 
 [Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/) <br />
-[Screenfly](http://quirktools.com/screenfly/)
-[Responsinator](http://www.responsinator.com/)
-[Emuladores Mobile](http://www.mobilexweb.com/emulators)
-[Adobe Edge InspectCC](https://creative.adobe.com/products/inspect)
+[Screenfly](http://quirktools.com/screenfly/) <br />
+[Responsinator](http://www.responsinator.com/) <br />
+[Emuladores Mobile](http://www.mobilexweb.com/emulators) <br />
+[Adobe Edge InspectCC](https://creative.adobe.com/products/inspect) <br />
 [Extensão viewport resizer - Chrome](https://chrome.google.com/webstore/detail/viewport-resizer/kapnjjcfcncngkadhpmijlkblpibdcgm)
 
