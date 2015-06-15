@@ -42,3 +42,4 @@
 [Principios de design para websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
 [Diretrizes de identidade da Apple](http://www.logoair.com/wp-content/uploads/2011/01/logo_guidelines.pdf) <br />
 [UI Design Apple](https://developer.apple.com/design/tips/#readability)
+[Ferramenta teste de performace de websites](http://www.webpagetest.org)
