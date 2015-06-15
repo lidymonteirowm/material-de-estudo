@@ -1,7 +1,7 @@
 # Material de Estudo
 
-## Mobile First 
-- Livros
+## Mobile First
+- Livros <br />
 [Mobile First - Luke Wroblewski]()
 [Responsive Web Design - Ethan Marcotte]()
 [Estratégia de conteúdo para Mobile - Karen McGrane]()
