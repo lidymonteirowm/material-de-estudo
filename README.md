@@ -28,14 +28,15 @@
 [Um guia completo de tipografia para Web](http://tableless.com.br/um-guia-completo-de-tipografia-para-a-web/) <br />
 [5 coisas que aprendi em um projeto Mobile-First Responsive Design para o Google](http://arquiteturadeinformacao.com/user-experience/5-coisas-que-aprendi-em-um-projeto-mobile-first-responsive-design-para-o-google/) <br />
 [Mobile First: A arte de pensar com foco](http://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/) <br />
+[Tipografia para Web](http://alistapart.com/article/on-web-typography) <br />
 
 ### - Sites e Blogs de referência
 [Tableless](http://tableless.com.br/) <br />
 [Arquitetura da Informação](http://arquiteturadeinformacao.com/) <br />
 
 SEO
-[SEO para dispositivos Mobile - Google](https://developers.google.com/webmasters/mobile-sites/mobile-seo/)
-[SEO para Joomla - Leo Miranda](http://www.jcursos.com.br/tutoriais/seo-para-joomla)
+[SEO para dispositivos Mobile - Google](https://developers.google.com/webmasters/mobile-sites/mobile-seo/) <br />
+[SEO para Joomla - Leo Miranda](http://www.jcursos.com.br/tutoriais/seo-para-joomla) <br />
  
-[Ferramenta da Google que testa a compatibilidade de sites com dispositivos mobile](https://www.google.com/webmasters/tools/mobile-friendly/)
+[Ferramenta da Google que testa a compatibilidade de sites com dispositivos mobile](https://www.google.com/webmasters/tools/mobile-friendly/) <br />
 [Principios de design para websites - Google](https://developers.google.com/web/fundamentals/principles/)
