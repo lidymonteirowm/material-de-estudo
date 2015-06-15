@@ -32,4 +32,10 @@
 ### - Sites e Blogs de referência
 [Tableless](http://tableless.com.br/) <br />
 [Arquitetura da Informação](http://arquiteturadeinformacao.com/) <br />
+
+SEO
+[SEO para dispositivos Mobile - Google](https://developers.google.com/webmasters/mobile-sites/mobile-seo/)
+[SEO para Joomla - Leo Miranda](http://www.jcursos.com.br/tutoriais/seo-para-joomla)
  
+[Ferramenta da Google que testa a compatibilidade de sites com dispositivos mobile](https://www.google.com/webmasters/tools/mobile-friendly/)
+[Principios de design para websites - Google](https://developers.google.com/web/fundamentals/principles/)
