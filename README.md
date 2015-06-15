@@ -24,8 +24,11 @@
 - [Como testar Design responsivo](http://tableless.com.br/como-testar-design-responsivo/) <br />
 - [Design responsivo na prática: Do rascunho ao digital](http://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/) <br />
 
-### - Prototipação
-- [Prototipando com papel](https://medium.com/ux-ui-design-1/prototipos-de-papel-9f812d5b0dcc)
+### - Prototipação e planejamento
+[Prototipando com papel](https://medium.com/ux-ui-design-1/prototipos-de-papel-9f812d5b0dcc)
+[Processo de concepção/planejamento de Websites](http://www.toptal.com/ux/make-design-decisions-in-your-browser-my-process-for-designing-websites)
+[Tamanho de dispositivos](http://screensiz.es/)
+
 ### - Usabilidade
 - [Introdução à Usabilidade](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
@@ -35,7 +38,6 @@
 [5 coisas que aprendi em um projeto Mobile-First Responsive Design para o Google](http://arquiteturadeinformacao.com/user-experience/5-coisas-que-aprendi-em-um-projeto-mobile-first-responsive-design-para-o-google/) <br />
 [Mobile First: A arte de pensar com foco](http://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/) <br />
 [Tipografia para Web](http://alistapart.com/article/on-web-typography) <br />
-[Processo de concepção/planejamento de Websites](http://www.toptal.com/ux/make-design-decisions-in-your-browser-my-process-for-designing-websites)
 
 ### - Sites e Blogs de referência: Web Design, UI, UX, Arquitetura da Informação
 [Tableless](http://tableless.com.br/) <br />
@@ -45,7 +47,6 @@
 [Principios de design para Websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
 [Diretrizes de identidade da Apple](http://www.logoair.com/wp-content/uploads/2011/01/logo_guidelines.pdf) <br />
 [UI Design Apple](https://developer.apple.com/design/tips/#readability)
-
 
 ### - Performace e SEO:
 [Como perder peso no Browser](http://browserdiet.com/pt/) <br />
@@ -63,6 +64,7 @@
 [Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/) <br />
 [Screenfly](http://quirktools.com/screenfly/) <br />
 [Responsinator](http://www.responsinator.com/) <br />
+[I am Mobile](http://www.iammobile.co.uk/)
 [Emuladores Mobile](http://www.mobilexweb.com/emulators) <br />
 [Adobe Edge InspectCC](https://creative.adobe.com/products/inspect) <br />
 [Extensão viewport resizer - Chrome](https://chrome.google.com/webstore/detail/viewport-resizer/kapnjjcfcncngkadhpmijlkblpibdcgm)
