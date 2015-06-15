@@ -29,6 +29,7 @@
 [5 coisas que aprendi em um projeto Mobile-First Responsive Design para o Google](http://arquiteturadeinformacao.com/user-experience/5-coisas-que-aprendi-em-um-projeto-mobile-first-responsive-design-para-o-google/) <br />
 [Mobile First: A arte de pensar com foco](http://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/) <br />
 [Tipografia para Web](http://alistapart.com/article/on-web-typography) <br />
+[Processo de concepção/planejamento de Websites](http://www.toptal.com/ux/make-design-decisions-in-your-browser-my-process-for-designing-websites)
 
 ### - Sites e Blogs de referência
 [Tableless](http://tableless.com.br/) <br />
