@@ -1,27 +1,5 @@
 # Material de Estudo: Sites e Sistemas para Web
 
-## Prototipação e planejamento: <br />
-##### - Artigos/Post tutorial: <br />
-[Processo de concepção/planejamento de Websites](http://www.toptal.com/ux/make-design-decisions-in-your-browser-my-process-for-designing-websites)
-[Design responsivo na prática: Do rascunho ao digital](http://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/) <br />
-[Prototipando com papel](https://medium.com/ux-ui-design-1/prototipos-de-papel-9f812d5b0dcc)
-
-##### - Ferramentas de prototipação:
-[Realtimeboard](https://realtimeboard.com/)
-[Tamanho de dispositivos](http://screensiz.es/)
-
-
-## Mobile First
-##### - Livros: <br />
-[[en]Mobile First - Luke Wroblewski](https://drive.google.com/file/d/0B4AnFnTYmThTNk50Nm5QVVMtMDg/view?usp=sharing) <br />
-[Resenha do livro Karen McGrane](http://marketingland.com/book-review-content-strategy-for-mobile-by-karen-mcgrane-34269)
-[Web Design Responsivo - Páginas adaptáveis para todos os dispositivos - Tárcio Zemel](https://drive.google.com/file/d/0B4AnFnTYmThTRmU0VDZVcmlnZ0E/view?usp=sharing)
-
-##### - Artigos/Post tutorial: <br />
-[Mobile First: A arte de pensar com foco](http://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/) <br />
-[5 coisas que aprendi em um projeto Mobile First Responsive Design para o Google](http://arquiteturadeinformacao.com/user-experience/5-coisas-que-aprendi-em-um-projeto-mobile-first-responsive-design-para-o-google/) <br />
-
-
 ## Responsive Web Design
 ##### - Livros: <br />
 [[en]Responsive Web Design - Ethan Marcotte](https://drive.google.com/file/d/0B4AnFnTYmThTS0xfSjVGa2tlbGc/view?usp=sharing) <br />
@@ -41,6 +19,28 @@
 [Emuladores Mobile](http://www.mobilexweb.com/emulators) <br />
 [Adobe Edge InspectCC](https://creative.adobe.com/products/inspect) <br />
 [Extensão viewport resizer - Chrome](https://chrome.google.com/webstore/detail/viewport-resizer/kapnjjcfcncngkadhpmijlkblpibdcgm)
+
+## Mobile First (Fluxo de desenvolvimento invertido - Planejar o Mobile primeiro )
+##### - Livros: <br />
+[[en]Mobile First - Luke Wroblewski](https://drive.google.com/file/d/0B4AnFnTYmThTNk50Nm5QVVMtMDg/view?usp=sharing) <br />
+[Resenha do livro Karen McGrane](http://marketingland.com/book-review-content-strategy-for-mobile-by-karen-mcgrane-34269)
+[Web Design Responsivo - Páginas adaptáveis para todos os dispositivos - Tárcio Zemel](https://drive.google.com/file/d/0B4AnFnTYmThTRmU0VDZVcmlnZ0E/view?usp=sharing)
+[Apostila Caelum - Capítulo 9](http://www.caelum.com.br/apostila-html-css-javascript/)
+
+##### - Artigos/Post tutorial: <br />
+[Mobile First: A arte de pensar com foco](http://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/) <br />
+[5 coisas que aprendi em um projeto Mobile First Responsive Design para o Google](http://arquiteturadeinformacao.com/user-experience/5-coisas-que-aprendi-em-um-projeto-mobile-first-responsive-design-para-o-google/) <br />
+
+## Prototipação e planejamento: <br />
+##### - Artigos/Post tutorial: <br />
+[Processo de concepção/planejamento de Websites](http://www.toptal.com/ux/make-design-decisions-in-your-browser-my-process-for-designing-websites)
+[Design responsivo na prática: Do rascunho ao digital](http://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/) <br />
+[Prototipando com papel](https://medium.com/ux-ui-design-1/prototipos-de-papel-9f812d5b0dcc)
+
+##### - Ferramentas de prototipação:
+[Wireframes para impressão]()
+[Realtimeboard](https://realtimeboard.com/) <br />
+[Tamanho de dispositivos](http://screensiz.es/) <br />
 
 
 ## Design/Mobile e Marketing 
