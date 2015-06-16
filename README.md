@@ -72,7 +72,7 @@
 
 ## UX Design, Usabilidade e Acessibilidade: <br />
 ##### - Artigos/Post tutorial: <br />
-[Diferença entre UX e Usabilidade](http://www.profissionaisti.com.br/2011/12/qual-a-diferenca-entre-ux-experiencia-do-usuario-e-usabilidade/)
+[Diferença entre UX e Usabilidade](http://www.profissionaisti.com.br/2011/12/qual-a-diferenca-entre-ux-experiencia-do-usuario-e-usabilidade/) <br />
 [Introdução à Usabilidade](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 [Introdução à teste de usabiliadade de websites](http://usabilitygeek.com/an-introduction-to-website-usability-testing/)
 [Integrando Acessibilidade ao Longo do Design - Just Ask](http://www.uiaccess.com/accessucd/contents.html) <br />
