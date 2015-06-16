@@ -10,6 +10,7 @@
 [Design para telas sensível a toques](http://tableless.com.br/design-para-telas-sensiveis-ao-toque/) <br />
 [Responsive Web Design - adaptação vs otimização](http://tableless.com.br/responsive-web-design-adaptacao-vs-otimizacao/) <br />
 [Como testar Design responsivo](http://tableless.com.br/como-testar-design-responsivo/) <br />
+[Apostila Caelum](http://www.caelum.com.br/apostila-html-css-javascript/)
 
 ##### - Ferramentas de teste: Compatibilidade de Websites com Responsive Design <br />
 [Mobile Friendly](https://www.google.com/webmasters/tools/mobile-friendly/) <br />
@@ -20,7 +21,7 @@
 [Adobe Edge InspectCC](https://creative.adobe.com/products/inspect) <br />
 [Extensão viewport resizer - Chrome](https://chrome.google.com/webstore/detail/viewport-resizer/kapnjjcfcncngkadhpmijlkblpibdcgm)
 
-## Mobile First (Fluxo de desenvolvimento invertido - Planejar o Mobile primeiro )
+## Design Mobile First (Fluxo de desenvolvimento/planejamento invertido)
 ##### - Livros: <br />
 [[en]Mobile First - Luke Wroblewski](https://drive.google.com/file/d/0B4AnFnTYmThTNk50Nm5QVVMtMDg/view?usp=sharing) <br />
 [Resenha do livro Karen McGrane](http://marketingland.com/book-review-content-strategy-for-mobile-by-karen-mcgrane-34269)
