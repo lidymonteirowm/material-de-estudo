@@ -1,10 +1,21 @@
-# Material de Estudo
+# Material de Estudo: Sites e Sistemas para Web
+
+## Prototipação e planejamento: <br />
+##### - Artigos/Post tutorial: <br />
+[Processo de concepção/planejamento de Websites](http://www.toptal.com/ux/make-design-decisions-in-your-browser-my-process-for-designing-websites)
+[Design responsivo na prática: Do rascunho ao digital](http://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/) <br />
+[Prototipando com papel](https://medium.com/ux-ui-design-1/prototipos-de-papel-9f812d5b0dcc)
+
+##### - Ferramentas de prototipação:
+[Realtimeboard](https://realtimeboard.com/)
+[Tamanho de dispositivos](http://screensiz.es/)
+
 
 ## Mobile First
 ##### - Livros: <br />
-[[en]Mobile First - Luke Wroblewski]() <br />
+[[en]Mobile First - Luke Wroblewski](https://drive.google.com/file/d/0B4AnFnTYmThTNk50Nm5QVVMtMDg/view?usp=sharing) <br />
 [Resenha do livro Karen McGrane](http://marketingland.com/book-review-content-strategy-for-mobile-by-karen-mcgrane-34269)
-[Web Design Responsivo - Páginas adaptáveis para todos os dispositivos]()
+[Web Design Responsivo - Páginas adaptáveis para todos os dispositivos - Tárcio Zemel](https://drive.google.com/file/d/0B4AnFnTYmThTRmU0VDZVcmlnZ0E/view?usp=sharing)
 
 ##### - Artigos/Post tutorial: <br />
 [Mobile First: A arte de pensar com foco](http://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/) <br />
@@ -13,8 +24,8 @@
 
 ## Responsive Web Design
 ##### - Livros: <br />
-[[en]Responsive Web Design - Ethan Marcotte]() <br />
-[[en]Estratégia de conteúdo para Mobile - Karen McGrane]() <br />
+[[en]Responsive Web Design - Ethan Marcotte](https://drive.google.com/file/d/0B4AnFnTYmThTS0xfSjVGa2tlbGc/view?usp=sharing) <br />
+[[en]Estratégia de conteúdo para Mobile - Karen McGrane](https://drive.google.com/file/d/0B4AnFnTYmThTUHU0V3Y2cUR0dEE/view?usp=sharing) <br />
 
 ##### - Artigos/Post tutorial: <br />
 [Responsive Web Design - Ethan Marcotte](http://alistapart.com/article/responsive-web-design) <br />
@@ -30,15 +41,6 @@
 [Emuladores Mobile](http://www.mobilexweb.com/emulators) <br />
 [Adobe Edge InspectCC](https://creative.adobe.com/products/inspect) <br />
 [Extensão viewport resizer - Chrome](https://chrome.google.com/webstore/detail/viewport-resizer/kapnjjcfcncngkadhpmijlkblpibdcgm)
-
-## Prototipação e planejamento: <br />
-##### - Artigos/Post tutorial: <br />
-[Processo de concepção/planejamento de Websites](http://www.toptal.com/ux/make-design-decisions-in-your-browser-my-process-for-designing-websites)
-[Design responsivo na prática: Do rascunho ao digital](http://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/) <br />
-[Prototipando com papel](https://medium.com/ux-ui-design-1/prototipos-de-papel-9f812d5b0dcc)
-
-##### - Ferramentas:
-[Tamanho de dispositivos](http://screensiz.es/)
 
 
 ## Design/Mobile e Marketing 
@@ -70,6 +72,7 @@
 ## UX Design, Usabilidade e Acessibilidade: <br />
 ##### - Artigos/Post tutorial: <br />
 [Introdução à Usabilidade](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+[Introdução à teste de usabiliadade de websites](http://usabilitygeek.com/an-introduction-to-website-usability-testing/)
 [Integrando Acessibilidade ao Longo do Design - Just Ask](http://www.uiaccess.com/accessucd/contents.html) <br />
 
 ##### - E-book/Infonográfico: <br />
