@@ -4,7 +4,7 @@
 ##### - Livros: <br />
 [[en]Responsive Web Design - Ethan Marcotte](https://drive.google.com/file/d/0B4AnFnTYmThTS0xfSjVGa2tlbGc/view?usp=sharing) <br />
 [Web Design Responsivo - Páginas adaptáveis para todos os dispositivos - Tárcio Zemel](https://drive.google.com/file/d/0B4AnFnTYmThTRmU0VDZVcmlnZ0E/view?usp=sharing) <br />
-[[en]Estratégia de conteúdo para Mobile - Karen McGrane](https://drive.google.com/file/d/0B4AnFnTYmThTUHU0V3Y2cUR0dEE/view?usp=sharing)(obs.: desconsiderar o que Karen McGrane fala sobre SEO neste livro - [Saiba porque aqui)](http://marketingland.com/book-review-content-strategy-for-mobile-by-karen-mcgrane-34269)
+[[en]Estratégia de conteúdo para Mobile - Karen McGrane](https://drive.google.com/file/d/0B4AnFnTYmThTUHU0V3Y2cUR0dEE/view?usp=sharing)(obs.: desconsiderar o que Karen McGrane fala sobre SEO neste livro - [Saiba porque aqui](http://marketingland.com/book-review-content-strategy-for-mobile-by-karen-mcgrane-34269))
 
 ##### - Artigos/Post tutorial: <br />
 [Responsive Web Design - Ethan Marcotte](http://alistapart.com/article/responsive-web-design) <br />
