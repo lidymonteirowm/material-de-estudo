@@ -1,4 +1,4 @@
-# Material de Estudo: Sites e Sistemas para Web
+# Material de Estudo: Web Design
 
 ## Responsive Web Design
 ##### - Livros: <br />
