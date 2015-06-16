@@ -3,6 +3,7 @@
 ## Responsive Web Design
 ##### - Livros: <br />
 [[en]Responsive Web Design - Ethan Marcotte](https://drive.google.com/file/d/0B4AnFnTYmThTS0xfSjVGa2tlbGc/view?usp=sharing) <br />
+[Web Design Responsivo - Páginas adaptáveis para todos os dispositivos - Tárcio Zemel](https://drive.google.com/file/d/0B4AnFnTYmThTRmU0VDZVcmlnZ0E/view?usp=sharing) <br />
 [[en]Estratégia de conteúdo para Mobile - Karen McGrane](https://drive.google.com/file/d/0B4AnFnTYmThTUHU0V3Y2cUR0dEE/view?usp=sharing) <br />
 
 ##### - Artigos/Post tutorial: <br />
@@ -25,7 +26,7 @@
 ##### - Livros: <br />
 [[en]Mobile First - Luke Wroblewski](https://drive.google.com/file/d/0B4AnFnTYmThTNk50Nm5QVVMtMDg/view?usp=sharing) <br />
 [Resenha do livro Karen McGrane](http://marketingland.com/book-review-content-strategy-for-mobile-by-karen-mcgrane-34269) <br />
-[Web Design Responsivo - Páginas adaptáveis para todos os dispositivos - Tárcio Zemel](https://drive.google.com/file/d/0B4AnFnTYmThTRmU0VDZVcmlnZ0E/view?usp=sharing) <br />
+[Capítulo 6: Web Design Responsivo - Páginas adaptáveis para todos os dispositivos - Tárcio Zemel](https://drive.google.com/file/d/0B4AnFnTYmThTRmU0VDZVcmlnZ0E/view?usp=sharing) <br />
 [Apostila Caelum - Capítulo 9](http://www.caelum.com.br/apostila-html-css-javascript/)
 
 ##### - Artigos/Post tutorial: <br />
