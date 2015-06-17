@@ -66,6 +66,7 @@
 [Um guia completo de tipografia para Web](http://tableless.com.br/um-guia-completo-de-tipografia-para-a-web/) <br />
 [Tipografia para Web](http://alistapart.com/article/on-web-typography) <br />
 [Como selecionar a tipografia ideal para o seu projeto](http://chocoladesign.com/como-selecionar-a-tipografia-ideal-para-o-seu-projeto)
+[[en]Web Design é 95% Tipografia](https://ia.net/know-how/the-web-is-all-about-typography-period)
 
 ##### - E-book/Infonográfico: <br />
 [Tipografia para Web](https://www.origamid.com/books/tipografia-para-web/?pg=download358) <br />
