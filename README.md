@@ -103,3 +103,4 @@
 ## Sites e Blogs de referência: Web Design, UI, UX, Arquitetura da Informação
 [Tableless](http://tableless.com.br/) <br />
 [Arquitetura da Informação](http://arquiteturadeinformacao.com/) <br />
+[Bruno Àvila](http://www.brunoavila.com.br/)
