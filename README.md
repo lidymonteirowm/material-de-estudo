@@ -58,16 +58,16 @@
 
 ##### - Artigos/Post tutorial: <br />
 [Principios de design para Websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
-[UI Design Apple](https://developer.apple.com/design/tips/#readability)
-[O que é Gestalt](http://chocoladesign.com/o-que-e-gestalt)
+[UI Design Apple](https://developer.apple.com/design/tips/#readability)  <br />
+[O que é Gestalt](http://chocoladesign.com/o-que-e-gestalt)  <br />
 [Relação estreita entre Design e Gestalt](http://www.miltondesigner.com.br/a-relacao-estreita-entre-os-principios-da-gestalt-e-design/)
 
 ## Tipografia e cores: <br />
 ##### - Artigos/Post tutorial: <br />
 [Um guia completo de tipografia para Web](http://tableless.com.br/um-guia-completo-de-tipografia-para-a-web/) <br />
 [Tipografia para Web](http://alistapart.com/article/on-web-typography) <br />
-[Como selecionar a tipografia ideal para o seu projeto](http://chocoladesign.com/como-selecionar-a-tipografia-ideal-para-o-seu-projeto)
-[[en]Web Design é 95% Tipografia](https://ia.net/know-how/the-web-is-all-about-typography-period)
+[Como selecionar a tipografia ideal para o seu projeto](http://chocoladesign.com/como-selecionar-a-tipografia-ideal-para-o-seu-projeto)  <br />
+[[en]Web Design é 95% Tipografia](https://ia.net/know-how/the-web-is-all-about-typography-period)  <br />
 [[en]Elementos de tipografia para web](http://webtypography.net/)
 
 ##### - E-book/Infonográfico: <br />
@@ -77,7 +77,7 @@
 
 ## UI, UX, Usabilidade e Acessibilidade: <br />
 ##### - Artigos/Post tutorial: <br />
-[Introdução à Interface de Usuário(UI)](https://drive.google.com/open?id=0B4AnFnTYmThTX21BSFBRNzMxR1E&authuser=0)
+[Introdução à Interface de Usuário(UI)](https://drive.google.com/open?id=0B4AnFnTYmThTX21BSFBRNzMxR1E&authuser=0)  <br />
 [Diferença entre UX e Usabilidade](http://www.profissionaisti.com.br/2011/12/qual-a-diferenca-entre-ux-experiencia-do-usuario-e-usabilidade/) <br />
 [Introdução à Usabilidade](http://www.nngroup.com/articles/usability-101-introduction-to-usability/) <br />
 [Introdução à teste de usabiliadade de websites](http://usabilitygeek.com/an-introduction-to-website-usability-testing/) <br />
@@ -88,7 +88,7 @@
 [Teste A/B](http://landing.viverdeblog.com/baixar-ebook-teste-ab/) <br />
 
 ##### - Ferramentas de teste:
-[Wave: Avaliador de Acessibilidade](http://wave.webaim.org/)
+[Wave: Avaliador de Acessibilidade](http://wave.webaim.org/)  <br />
 [Color Oracle: Simulador de Daltonismo](http://colororacle.org/)
 
 
@@ -97,7 +97,7 @@
 [Como perder peso no Browser](http://browserdiet.com/pt/) <br />
 [SEO para dispositivos Mobile - Google](https://developers.google.com/webmasters/mobile-sites/mobile-seo/) <br />
 [SEO para Joomla - Leo Miranda](http://www.jcursos.com.br/tutoriais/seo-para-joomla) <br />
-[SEO Miltilingual em Joomla](http://joomlaseo.com/blog/multilingual-seo-in-joomla)]
+[SEO Miltilingual em Joomla](http://joomlaseo.com/blog/multilingual-seo-in-joomla)] 
 
 ##### - E-book/Infonográfico: <br />
 [Otimização de sites](http://landing.viverdeblog.com/baixar-infografico-otimizacao-de-sites/) <br />
@@ -111,5 +111,5 @@
 ## Sites e Blogs de referência: Web Design, UI, UX, Arquitetura da Informação
 [Tableless](http://tableless.com.br/) <br />
 [Arquitetura da Informação](http://arquiteturadeinformacao.com/) <br />
-[Bruno Àvila](http://www.brunoavila.com.br/)
-[Chocola Design](http://chocoladesign.com/)
+[Bruno Àvila](http://www.brunoavila.com.br/)  <br />
+[Chocola Design](http://chocoladesign.com/)  <br />
