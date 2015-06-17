@@ -59,12 +59,13 @@
 ##### - Artigos/Post tutorial: <br />
 [Principios de design para Websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
 [UI Design Apple](https://developer.apple.com/design/tips/#readability)
-
+[O que é Gestalt](http://chocoladesign.com/o-que-e-gestalt)
 
 ## Tipografia e cores: <br />
 ##### - Artigos/Post tutorial: <br />
 [Um guia completo de tipografia para Web](http://tableless.com.br/um-guia-completo-de-tipografia-para-a-web/) <br />
 [Tipografia para Web](http://alistapart.com/article/on-web-typography) <br />
+[Como selecionar a tipografia ideal para o seu projeto](http://chocoladesign.com/como-selecionar-a-tipografia-ideal-para-o-seu-projeto)
 
 ##### - E-book/Infonográfico: <br />
 [Tipografia para Web](https://www.origamid.com/books/tipografia-para-web/?pg=download358) <br />
@@ -104,3 +105,4 @@
 [Tableless](http://tableless.com.br/) <br />
 [Arquitetura da Informação](http://arquiteturadeinformacao.com/) <br />
 [Bruno Àvila](http://www.brunoavila.com.br/)
+[Chocola Design](http://chocoladesign.com/)
