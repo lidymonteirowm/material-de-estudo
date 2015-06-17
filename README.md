@@ -60,6 +60,7 @@
 [Principios de design para Websites - Google](https://developers.google.com/web/fundamentals/principles/) <br />
 [UI Design Apple](https://developer.apple.com/design/tips/#readability)
 [O que é Gestalt](http://chocoladesign.com/o-que-e-gestalt)
+[Relação estreita entre Design e Gestalt](http://www.miltondesigner.com.br/a-relacao-estreita-entre-os-principios-da-gestalt-e-design/)
 
 ## Tipografia e cores: <br />
 ##### - Artigos/Post tutorial: <br />
@@ -67,6 +68,7 @@
 [Tipografia para Web](http://alistapart.com/article/on-web-typography) <br />
 [Como selecionar a tipografia ideal para o seu projeto](http://chocoladesign.com/como-selecionar-a-tipografia-ideal-para-o-seu-projeto)
 [[en]Web Design é 95% Tipografia](https://ia.net/know-how/the-web-is-all-about-typography-period)
+[[en]Elementos de tipografia para web](http://webtypography.net/)
 
 ##### - E-book/Infonográfico: <br />
 [Tipografia para Web](https://www.origamid.com/books/tipografia-para-web/?pg=download358) <br />
@@ -85,6 +87,10 @@
 [Conversão e Usabilidade](http://landing.viverdeblog.com/baixar-infografico-conversao-usabilidade/) <br />
 [Teste A/B](http://landing.viverdeblog.com/baixar-ebook-teste-ab/) <br />
 
+##### - Ferramentas de teste:
+[Wave: Avaliador de Acessibilidade](http://wave.webaim.org/)
+[Color Oracle: Simulador de Daltonismo](http://colororacle.org/)
+
 
 ## Performace e SEO:
 ##### - Artigos/Post tutorial: <br />
@@ -100,7 +106,7 @@
 [HTTP archive](http://httparchive.org/) <br />
 [WebPageTest](http://www.webpagetest.org) <br />
 [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) <br />
-
+[Validador HTML da W3C](http://validator.w3.org/)
 
 ## Sites e Blogs de referência: Web Design, UI, UX, Arquitetura da Informação
 [Tableless](http://tableless.com.br/) <br />
