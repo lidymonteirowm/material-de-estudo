@@ -108,6 +108,10 @@
 [PageSpeed](https://developers.google.com/speed/pagespeed/insights/) <br />
 [Validador HTML da W3C](http://validator.w3.org/)
 
+## Front-end: 
+[[Brazuca]Como se manter atualizado nas tecnologias Front-end](http://oswaldoacauan.github.io/keep-up-to-date-brazuca/)
+[[Gringa]Como se manter atualizado nas tecnologias Front-end](http://uptodate.frontendrescue.org/pt/)
+
 ## Sites e Blogs de referência: Web Design, UI, UX, Arquitetura da Informação
 [Tableless](http://tableless.com.br/) <br />
 [Arquitetura da Informação](http://arquiteturadeinformacao.com/) <br />
